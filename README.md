@@ -4,6 +4,10 @@
 
 This repository serves as a collection of issues and challenges encountered during the development of data pipelines. It documents various problems, their context, and potential solutions or workarounds. The goal is to provide insights and assistance to others who may face similar challenges in their data engineering or data science projects.
 
+## Video Explanation:
+
+<video controls src="f10fa13b-7bc9-4aad-b217-5f7dee468663.mp4" title="Title"></video>
+
 ## Table of Contents
 
 - [Purpose](#purpose)
