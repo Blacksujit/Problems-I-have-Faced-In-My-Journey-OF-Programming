@@ -1,0 +1,15 @@
+artifact_uri: file:///f:/data_pipeline/mlruns/0/5d047cad60c345d5ae0e59f311df232f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d047cad60c345d5ae0e59f311df232f
+run_name: whimsical-gnu-530
+run_uuid: 5d047cad60c345d5ae0e59f311df232f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732045580028
+status: 1
+tags: []
+user_id: HP

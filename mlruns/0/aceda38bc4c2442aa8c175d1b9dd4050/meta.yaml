@@ -1,0 +1,15 @@
+artifact_uri: file:///f:/data_pipeline/mlruns/0/aceda38bc4c2442aa8c175d1b9dd4050/artifacts
+end_time: 1732045350902
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aceda38bc4c2442aa8c175d1b9dd4050
+run_name: skittish-fly-456
+run_uuid: aceda38bc4c2442aa8c175d1b9dd4050
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732045327725
+status: 3
+tags: []
+user_id: HP

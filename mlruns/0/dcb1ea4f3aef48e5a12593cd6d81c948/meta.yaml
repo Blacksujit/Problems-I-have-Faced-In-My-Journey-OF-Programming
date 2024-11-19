@@ -1,0 +1,15 @@
+artifact_uri: file:///f:/data_pipeline/mlruns/0/dcb1ea4f3aef48e5a12593cd6d81c948/artifacts
+end_time: 1732045410462
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dcb1ea4f3aef48e5a12593cd6d81c948
+run_name: ambitious-carp-270
+run_uuid: dcb1ea4f3aef48e5a12593cd6d81c948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732045404318
+status: 3
+tags: []
+user_id: HP

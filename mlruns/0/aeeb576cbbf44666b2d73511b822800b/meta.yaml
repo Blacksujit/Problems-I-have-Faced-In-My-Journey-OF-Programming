@@ -1,0 +1,15 @@
+artifact_uri: file:///f:/data_pipeline/mlruns/0/aeeb576cbbf44666b2d73511b822800b/artifacts
+end_time: 1732045312084
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aeeb576cbbf44666b2d73511b822800b
+run_name: rogue-cod-671
+run_uuid: aeeb576cbbf44666b2d73511b822800b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732045312033
+status: 4
+tags: []
+user_id: HP
